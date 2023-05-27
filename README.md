@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnnyvish
-- 👀 I’m interested in Artificial Intelligence and Neural Networks
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: johnny.vishnevskiy@gmail.com
 
